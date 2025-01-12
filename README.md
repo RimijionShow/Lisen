@@ -16,11 +16,12 @@
 2. **Отключите Уведомления**: Забудьте о смартфонах и социальных сетях, чтобы полностью погрузиться в момент.
 3. **Используйте Наш Генератор Идей**: Наш генератор поможет вам выбрать идеальные условия для вашего отдыха.
 
-![Escape Steps](https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![ppp](https://github.com/user-attachments/assets/fbb2b2b9-19f1-4854-b6d7-0202d057c5fa)
 
 ## Пример Кода
 
 Вот пример кода на Python, который поможет вам сгенерировать случайный план побега:
+
 
 ```python
 import random
