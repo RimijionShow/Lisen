@@ -30,3 +30,8 @@ import random
 активности = ["без Wi-Fi", "с минимальным багажом", "с просмотром звёзд"]
 
 print(f"Ваш идеальный побег: {random.choice(места)} {random.choice(активности)}")
+```
+
+## Ссылки
+
+![Youtube](https://www.youtube.com/@rimijishow7308)
