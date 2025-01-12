@@ -1,6 +1,6 @@
 # 🌟 Эскейп-Гид: Найдите Ваш Идеальный Побег 🌟
 
-![Escape Header](https://yandex.ru/images/search?img_url=https%3A%2F%2Fyt3.googleusercontent.com%2Fytc%2FAIdro_mteMddfvyROHF9rPrPbggH34LhzuFBR0-0A6L29yQjgg%3Ds900-c-k-c0x00ffffff-no-rj&lr=212156&pos=0&rpt=simage&serp_list_type=all&source=serp&text=Gid%20%D0%B8%D0%B7%20%D1%82%D0%B5%D1%80%D1%80%D0%B0%D1%80%D0%B8%D0%B8%20png)
+![1626781622_preview_png-transparent-terraria-the-legend-of-zelda-video-game-non-player-character-terraria](https://github.com/user-attachments/assets/f1b7f1c5-bcbe-4dbf-9342-f8407fe9a9ec)
 
 Это ваш личный путеводитель для тех, кто устал от суеты и хочет найти свой идеальный способ отдохнуть от реальности. От городских джунглей до дикой природы — мы знаем, как это сделать!
 
